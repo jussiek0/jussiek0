@@ -1,8 +1,8 @@
 # easy_crack
 
 **Платформа**: reversing.kr  
-**Категория**: Rev  
-**Сложность**: ★☆☆
+**Категория**: Reverse  
+**Сложность**: ★☆☆☆☆☆
 
 ## Условие
 Windows crackme (`Easy_CrackMe.exe`).  
