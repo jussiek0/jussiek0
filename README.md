@@ -2,7 +2,7 @@
 
 > **"I came; I fuzzed; I pwned"**
 
-Студент КНИТУ КХТИ | Reverse Engineer | Pwnable Enthusiast  
+Студент | Reverse Engineer | Pwnable Enthusiast  
 Член команды **KNRTU k1b**  
 Люблю ломать бинарники, писать эксплоиты и пить кофе в 3 часа ночи.
 
